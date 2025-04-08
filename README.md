@@ -90,7 +90,7 @@ graph LR
 ---
 
 ## 🤝 Let's Collaborate!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-flat&logo=linkedin)](https://linkedin.com/in/gautamjha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-flat&logo=linkedin)]([https://linkedin.com/in/gautamjha](https://www.linkedin.com/in/devops-gautam))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-flat&logo=gmail)](mailto:devops.gautamjha@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-flat&logo=rss)](https://yourblog.com)
 
